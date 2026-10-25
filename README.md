@@ -1,5 +1,4 @@
 # Roster Optimiser
-Please click "Open as a Preview" located in the top right for better formatting 
 
 **Author:** Doan Nam Khanh
 
