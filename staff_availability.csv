@@ -1,0 +1,7 @@
+employee_id,weekday_payrate,monday_hours,tuesday_hours,wednesday_hours,thursday_hours,friday_hours,saturday_hours,sunday_hours,max_weekly_hours
+Employee_01,25.75,0,0,0,4,4,0,0,10
+Employee_02,20.25,0,6,0,0,5,4,6,24
+Employee_03,20.25,1,0,0,6,4,5,5,25
+Employee_04,24.75,5,0,7,6,5,0,5,34
+Employee_05,20.25,0,3,2,0,4,2,6,20
+Employee_06,23.75,0,6,0,0,5,5,6,24
